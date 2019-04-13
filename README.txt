@@ -6,6 +6,11 @@ Licensing:
 ---------------------------------
 See LICENSE.txt
 
+Project Management:
+---------------------------------
+wolfshippie: wolfshippie@gmail.com
+TalkLounge: talklounge@yahoo.de
+
 Ideen:
 ---------------------------------
 -Marg orientiert sich an Varo und an der wissenschaftlichen Geschichte der Erde.
