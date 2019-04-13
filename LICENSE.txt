@@ -1,0 +1,6 @@
+License of source code & media:
+---------------------------------
+Copyright (C) 2019 TalkLounge <talklounge@yahoo.de>
+
+You are forbidden to do anything with my source code & media.
+This License may change in future to an open source one.
