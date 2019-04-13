@@ -20,6 +20,7 @@ Ideen:
 -Team besteht aus 2-3 Personen.
 -Vorraussetzung für die Teilnahme: Ahnung von Minetest
 -Geplante Mitglieder fürs erste Marg: dopik, bio, ZON, 2_waldberg, Elias, c22, Arla, Fox, Mooncarman, Arcelmi, Michel, Bekka, TalkLounge, Lowe, wolfshippie, Zurul, felix7, Pingo, (DEV), (NiklasHD), (Kosmos77), (Yamic), (jama), (yk)
+-Sprache: Englisch, da nach dem ersten Marg auch englischsprachige Teilnehmer mitmachen können.
 -Handyspieler sollen nicht benachteiligt werden, deswegen muss noch eine Möglichkeit gefunden werden, den Chat dringend notwendig zu machen, sodass VoiceChat kein wirklicher Vorteil ist
 -Wer stirbt ist direkt draußen oder wenn jemand Magier aus dem Team ist, dann kann man geheilt werden.
 -Ungefähre Dauer von Marg: 1 Monat
