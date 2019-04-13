@@ -8,7 +8,7 @@ See LICENSE.txt
 
 Project Management:
 ---------------------------------
-wolfshippie: wolfshippie@gmail.com
+Wolfshippie: wolfshippie@gmail.com
 TalkLounge: talklounge@yahoo.de
 
 Ideen:
