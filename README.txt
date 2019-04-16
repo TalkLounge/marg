@@ -29,7 +29,7 @@ Ideen:
 -Start: Jedes Team spawnt random auf der Map beim ersten joinen. Es gibt keinen Zeitpunkt, bei dem alle auf dem Server sein müssen. Jedes Team fängt an, wenn es Zeit hat.
 -Joinen: Wenn man auf den Server joint, dann hat man einen Chat offen, über den man sich verabreden kann. Erst beim Klick auf Spielen lauft die wöchentliche Spielzeit ab.
 -Aufnahme: Es besteht keine Aufnahmepflicht. Nach Marg kann man dann was veröffentlichen, wenn man das will.
--Spectator: Jeder kann auf den Server jonen und den Spielern beim Kämpfen oder Farmen zuschauen. Die Spectator haben einen eigenen Chat.
+-Spectator: Jeder kann auf den Server jonen und den Spielern beim Kämpfen oder Farmen zuschauen. Die Spectator haben einen eigenen Chat. Sie werden gekickt wenn Spieler online kommen.
 -Chat: Es gibt eine Chatreichweite, wie im RL, wenn man redet. Diese kann hochgelevelt werden.
 -Minimap: Minimap wird ausgeschaltet sein.
 -Zoom: Zoom kann man sich erleveln.
