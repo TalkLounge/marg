@@ -13,6 +13,7 @@ TalkLounge: talklounge@yahoo.de
 
 Ideen:
 ---------------------------------
+-Namensvorschläge: Marg, Athlon
 -Marg orientiert sich an Varo und an der wissenschaftlichen Geschichte der Erde.
 -Mapgen: valleys, weil der Mapgen nicht zu hohe unbezwingbare Berge haben sollte aber auch nicht zu flach sein sollte. valleys ist optimal.
 -Mehrere Welten. Eine Welt ist 3000x3000x3000 groß. Man fängt in der Eiszeit an und wenn man alle Aufgaben bewältigt hat, kommt man ins Mittelalter oder so.
