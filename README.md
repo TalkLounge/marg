@@ -8,9 +8,7 @@ A multiplayer adventure role-play game in minetest
 See [LICENSE.txt](./LICENSE.txt "Path to LICENSE.txt")
 
 ## Project Management
-Wolfshippie (wolfshippie@gmail.com)
-
-TalkLounge (talklounge@yahoo.de)
+Wolfshippie(wolfshippie@gmail.com) & TalkLounge(talklounge@yahoo.de)
 
 ## Idee
 * **Namensvorschläge**: Marg, Athlon
