@@ -1,19 +1,18 @@
-Minetest Game 'marg'
-==================
-Version 0.1
+# MARG
+A multiplayer adventure role-play game in minetest
 
-Licensing:
----------------------------------
-See LICENSE.txt
+## Version
+0.1; WIP
 
-Project Management:
----------------------------------
-Wolfshippie: wolfshippie@gmail.com
-TalkLounge: talklounge@yahoo.de
+## Licensing
+See [LICENSE.txt](./LICENSE.txt "Path to LICENSE.txt")
 
-Ideen:
----------------------------------
--Namensvorschläge: Marg, Athlon
+## Project Management
+Wolfshippie (wolfshippie@gmail.com)
+TalkLounge (talklounge@yahoo.de)
+
+## Idee
+* **Namensvorschläge**: Marg, Athlon
 -Marg orientiert sich an Varo und an der wissenschaftlichen Geschichte der Erde.
 -Mapgen: valleys, weil der Mapgen nicht zu hohe unbezwingbare Berge haben sollte aber auch nicht zu flach sein sollte. valleys ist optimal.
 -Mehrere Welten. Eine Welt ist 3000x3000x3000 groß. Man fängt in der Eiszeit an und wenn man alle Aufgaben bewältigt hat, kommt man ins Mittelalter oder so.
