@@ -18,7 +18,7 @@ Wolfshippie(wolfshippie@gmail.com) & TalkLounge(talklounge@yahoo.de)
 * **Spielzeit**: 5 Stunden pro Woche. Damit kann sich jedes Team seine Zeit individuell einteilen.
 * **Teams**: Besteht aus 2-3 Personen pro Team
 * **Vorraussetzungen**: Teilnehmer sollten Ahnung von Minetest haben
-* **Teilnehmer**: dopik, bio, ZON, 2_waldberg, Elias, c22, Arla, Fox, Mooncarman, Arcelmi, Michel, Bekka, TalkLounge, Lowe, wolfshippie, Zurul, felix7, Pingo, (DEV), (NiklasHD), (Kosmos77), (Yamic), (jama), (yk)
+* **Teilnehmer**: dopik, bio, ZON, 2_waldberg, Elias, c22, Arla, Fox, Mooncarman, Arcelmi, Michel, Bekka, TalkLounge, Lowe, wolfshippie, Zurul, felix7, Pingo, lernpvp, (DEV), (NiklasHD), (Kosmos77), (Yamic), (jama), (yk)
 * **Sprache**: Englisch, da nach dem ersten Marg auch englischsprachige Teilnehmer mitmachen sollen
 * **Handyspieler**: Sollen nicht benachteiligt werden, deswegen muss noch eine Möglichkeit gefunden werden, den Chat dringend notwendig zu machen, sodass VoiceChat kein wirklicher Vorteil ist
 * **Ende**: Wer stirbt ist direkt draußen oder wenn jemand Magier aus dem Team ist, dann kann man geheilt werden. Am Ende gibts einen riesen Kampf an einem vorher festgelegten Ort, an dem sich der Gewinner entscheidet
